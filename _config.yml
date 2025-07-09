@@ -3,10 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: Rain Huang's personal site
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: Hi, I am Yu Huang (Rain). I am currently a data scientist at Walmart working in the domains of market research and consumer behavior. My intention for this site is to share personal projects that I do outside of work, and to post essays on my life (e.g., travel logs, food recommendations, new discoveries) and thoughts/viewpoints. 
+
+About me: I was trained as a mathematical psychologist (for more information, see https://mathpsych.org/) in graduate school, and have a background in mathematics and statistics.
+My strong curiosity in human behaviors and their underlying mechanisms drove me to investigate decision making and choice modeling, while my quantitative foundation equipped me with the essential mindset and powerful tools to study them in a rigorous and elegant fashion.  
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
@@ -21,12 +24,12 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: https://github.com/rainhy93
   instagram:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
